@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @Simplyudhay
-- 👀 I’m interested to learn something new...
-- 🌱 I’m currently pursuing my first year bachelor's degree in B.tech CSBS 
+Highly motivated and proactive Computer Science and Business Systems student
+with a strong passion for economics. Demonstrated leadership skills and a proactive
+problem-solving approach. Excellent team player, eager to learn, and adaptable
+to diverse work environments.
 
 <!---
 Simplyudhay/Simplyudhay is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
